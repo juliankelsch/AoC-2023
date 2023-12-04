@@ -160,6 +160,7 @@ pub fn main() !void {
                         sum += num;
                     }
                     adjacent = false;
+
                     num = 0;
                 },
             }
